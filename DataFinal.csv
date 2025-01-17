@@ -1,0 +1,393 @@
+﻿SID,Group,Scenario,DemoM1,DemoM2,IntervM1,IntervM2,PercM
+1,Human,Ivanti,10,10,15,6,3.1
+2,Human,Ivanti,0,0,15,4,3.6
+3,Human,Ivanti,10,10,5,2,3.6
+4,Human,Ivanti,10,10,18,9,3
+5,Human,Ivanti,0,0,10,2.5,2.1
+6,AI,Ivanti,0,0,5,1,3.6
+7,Human,Ivanti,15,0,18,7,3.6
+8,AI,Ivanti,10,10,18,9,3.6
+9,AI,Ivanti,15,10,20,5,3.9
+10,Human,Ivanti,10,0,15,6,3.4
+11,Human,Ivanti,10,0,18,7,3.6
+12,Human,Ivanti,10,10,18,7,3.4
+13,AI,Ivanti,10,25,8,0.5,3.4
+14,AI,Ivanti,10,10,18,2.5,3.6
+15,AI,Ivanti,15,15,5,2,3.4
+16,AI,Ivanti,10,0,18,7,2.9
+17,Human,Ivanti,10,10,15,4,3.1
+18,AI,Ivanti,10,0,13,2,3.4
+19,AI,Ivanti,10,10,5,2.5,3.1
+20,AI,Ivanti,15,15,5,1,2.7
+21,Human,Ivanti,5,10,18,7,3
+22,Human,Ivanti,0,0,5,2,3.7
+23,AI,Ivanti,15,15,8,3,3.4
+24,AI,Ivanti,5,10,18,4.5,3.9
+25,AI,Ivanti,5,10,13,3,3.1
+26,AI,Ivanti,5,10,8,4,3.7
+27,AI,Ivanti,5,5,18,7,2.7
+28,AI,Ivanti,5,10,13,3,3.1
+29,AI,Ivanti,5,15,13,3,3.3
+30,AI,Ivanti,10,5,18,4.5,3.6
+31,AI,Ivanti,5,10,20,8,3.1
+32,Human,Ivanti,5,10,5,1,3.3
+33,Human,Ivanti,15,15,18,7,3.7
+34,Human,Ivanti,10,10,10,0.5,4.4
+35,AI,Ivanti,5,15,8,1,3.3
+36,Human,Ivanti,5,5,3,1,3.4
+37,Human,Ivanti,5,20,18,7,3.1
+38,Human,Ivanti,10,20,10,1.5,3.7
+39,AI,Ivanti,5,10,18,7,3.1
+40,Human,Ivanti,15,15,15,6,3.4
+41,AI,Ivanti,5,10,8,1,3.4
+42,AI,Ivanti,15,15,18,2.5,3.9
+43,AI,Ivanti,5,10,18,7,3.6
+44,Human,Ivanti,10,10,8,4,3.6
+45,AI,Ivanti,15,15,18,7,3.4
+46,Human,Ivanti,15,15,15,6,3.7
+47,AI,Ivanti,10,0,18,7,3.6
+48,Human,Ivanti,10,10,5,1,3.6
+49,AI,Ivanti,5,10,8,2,3.9
+1,AI,Vmware Aria,10,10,15,6,3.1
+2,AI,Vmware Aria,0,0,10,1.5,4.3
+3,Human,Vmware Aria,10,10,18,7,3.3
+4,Human,Vmware Aria,10,10,8,1,3.4
+5,AI,Vmware Aria,0,0,20,10,3.9
+6,AI,Vmware Aria,0,0,18,7,3.6
+7,AI,Vmware Aria,15,0,3,0.5,3.1
+8,Human,Vmware Aria,10,10,18,9,3.7
+9,AI,Vmware Aria,15,10,18,4.5,3.7
+10,AI,Vmware Aria,10,0,18,9,3.9
+11,AI,Vmware Aria,10,0,15,6,3.4
+12,AI,Vmware Aria,10,10,18,2.5,3.3
+13,Human,Vmware Aria,10,25,8,1,3.4
+14,Human,Vmware Aria,10,10,8,1,4.3
+15,Human,Vmware Aria,15,15,13,6.5,2.7
+16,Human,Vmware Aria,10,0,8,1,3.6
+17,AI,Vmware Aria,10,10,18,9,3.6
+18,Human,Vmware Aria,10,0,3,1,3.4
+19,AI,Vmware Aria,10,10,18,9,3.4
+20,AI,Vmware Aria,15,15,18,7,3.6
+21,AI,Vmware Aria,5,10,5,1,3.3
+22,AI,Vmware Aria,0,0,5,1,3.9
+23,AI,Vmware Aria,15,15,8,0.5,3.1
+24,Human,Vmware Aria,5,10,20,8,3.7
+25,Human,Vmware Aria,5,10,15,6,3.1
+26,Human,Vmware Aria,5,10,18,7,3.6
+27,Human,Vmware Aria,5,5,18,7,3.4
+28,Human,Vmware Aria,5,10,18,7,3
+29,AI,Vmware Aria,5,15,3,0.5,3.4
+30,Human,Vmware Aria,10,5,8,0.5,3.6
+31,AI,Vmware Aria,5,10,10,1.5,3.6
+32,AI,Vmware Aria,5,10,3,0.5,3.4
+33,Human,Vmware Aria,15,15,18,4.5,3.1
+34,AI,Vmware Aria,10,10,10,0.5,4.1
+35,AI,Vmware Aria,5,15,3,0.5,3.4
+36,Human,Vmware Aria,5,5,15,6,2.3
+37,AI,Vmware Aria,5,20,15,7.5,2.3
+38,Human,Vmware Aria,10,20,20,5,3.1
+39,Human,Vmware Aria,5,10,18,9,2.9
+40,Human,Vmware Aria,15,15,15,1,4.1
+41,Human,Vmware Aria,5,10,18,9,3.6
+42,AI,Vmware Aria,15,15,8,4,3.1
+43,Human,Vmware Aria,5,10,18,7,3.6
+44,AI,Vmware Aria,10,10,10,2.5,3.6
+45,Human,Vmware Aria,15,15,20,8,3.9
+46,AI,Vmware Aria,15,15,3,0.5,3
+47,AI,Vmware Aria,10,0,5,1,3
+48,AI,Vmware Aria,10,10,18,7,3.7
+49,Human,Vmware Aria,5,10,8,2,3
+1,AI,Fortinet,10,10,15,6,3.7
+2,AI,Fortinet,0,0,18,7,3.6
+3,AI,Fortinet,10,10,13,2,3.3
+4,AI,Fortinet,10,10,18,7,3.3
+5,AI,Fortinet,0,0,18,9,2.3
+6,Human,Fortinet,0,0,10,2.5,3.3
+7,Human,Fortinet,15,0,5,1,3.6
+8,Human,Fortinet,10,10,13,5,3
+9,Human,Fortinet,15,10,10,2.5,4.1
+10,AI,Fortinet,10,0,13,5,3
+11,Human,Fortinet,10,0,8,3,3.6
+12,Human,Fortinet,10,10,8,1,3.6
+13,AI,Fortinet,10,25,18,9,3.7
+14,Human,Fortinet,10,10,10,1.5,3.6
+15,Human,Fortinet,15,15,3,1,3.4
+16,Human,Fortinet,10,0,8,2,3.1
+17,AI,Fortinet,10,10,15,4,3
+18,Human,Fortinet,10,0,13,3,3.6
+19,Human,Fortinet,10,10,8,1,3.7
+20,Human,Fortinet,15,15,5,1,3.4
+21,AI,Fortinet,5,10,15,4,3.6
+22,AI,Fortinet,0,0,3,0.5,3.4
+23,Human,Fortinet,15,15,20,10,3.9
+24,Human,Fortinet,5,10,8,2,4
+25,Human,Fortinet,5,10,15,2.5,3.3
+26,Human,Fortinet,5,10,18,9,3.9
+27,AI,Fortinet,5,5,8,1,3.3
+28,AI,Fortinet,5,10,5,1,3.1
+29,Human,Fortinet,5,15,15,6,2.9
+30,Human,Fortinet,10,5,20,10,3.7
+31,Human,Fortinet,5,10,20,8,3
+32,Human,Fortinet,5,10,15,6,3
+33,AI,Fortinet,15,15,10,2.5,3.9
+34,AI,Fortinet,10,10,10,4,3.4
+35,Human,Fortinet,5,15,5,1,3.4
+36,AI,Fortinet,5,5,0,0,3.1
+37,Human,Fortinet,5,20,18,2.5,3.6
+38,AI,Fortinet,10,20,10,0.5,4.3
+39,Human,Fortinet,5,10,15,6,3.1
+40,AI,Fortinet,15,15,3,1,3.1
+41,Human,Fortinet,5,10,18,7,3.4
+42,Human,Fortinet,15,15,18,7,3.1
+43,Human,Fortinet,5,10,3,0.5,3.3
+44,AI,Fortinet,10,10,8,3,3.6
+45,Human,Fortinet,15,15,3,0,3.4
+46,AI,Fortinet,15,15,15,2.5,3.6
+47,Human,Fortinet,10,0,20,10,3.6
+48,AI,Fortinet,10,10,18,7,3.6
+49,Human,Fortinet,5,10,8,2,3.3
+1,Human,Vmware,10,10,5,1,3.6
+2,AI,Vmware,0,0,5,1,3.6
+3,AI,Vmware,10,10,5,1,3.3
+4,AI,Vmware,10,10,5,1,3
+5,Human,Vmware,0,0,8,1,3.7
+6,Human,Vmware,0,0,8,1,4
+7,AI,Vmware,15,0,18,7,3.3
+8,AI,Vmware,10,10,18,9,3.6
+9,Human,Vmware,15,10,15,4,3.6
+10,Human,Vmware,10,0,3,0.5,3
+11,AI,Vmware,10,0,18,7,3.9
+12,Human,Vmware,10,10,18,7,3.3
+13,Human,Vmware,10,25,13,5,2.6
+14,AI,Vmware,10,10,8,0.5,4
+15,AI,Vmware,15,15,8,1,3.6
+16,AI,Vmware,10,0,5,1,3.1
+17,Human,Vmware,10,10,13,5,2.7
+18,AI,Vmware,10,0,13,3,3.4
+19,Human,Vmware,10,10,15,7.5,3.3
+20,Human,Vmware,15,15,13,5,3
+21,Human,Vmware,5,10,15,6,3.4
+22,Human,Vmware,0,0,13,5,3.3
+23,Human,Vmware,15,15,8,1,3.4
+24,AI,Vmware,5,10,8,1,3.7
+25,AI,Vmware,5,10,5,1,3.1
+26,AI,Vmware,5,10,5,2.5,3.3
+27,Human,Vmware,5,5,20,8,3.9
+28,Human,Vmware,5,10,5,1,3.4
+29,Human,Vmware,5,15,13,3,3.3
+30,AI,Vmware,10,5,5,1,3.3
+31,Human,Vmware,5,10,20,10,2.9
+32,AI,Vmware,5,10,3,1,3.3
+33,AI,Vmware,15,15,18,4.5,3.9
+34,Human,Vmware,10,10,20,10,2.9
+35,Human,Vmware,5,15,0,0,3.4
+36,AI,Vmware,5,5,3,1,3.1
+37,AI,Vmware,5,20,13,2,3
+38,AI,Vmware,10,20,15,6,3.4
+39,AI,Vmware,5,10,15,2.5,3.4
+40,AI,Vmware,15,15,5,1,3.7
+41,AI,Vmware,5,10,8,1,3.6
+42,Human,Vmware,15,15,8,3,3.4
+43,AI,Vmware,5,10,3,0,3.7
+44,Human,Vmware,10,10,18,9,3.4
+45,AI,Vmware,15,15,10,0.5,3.9
+46,Human,Vmware,15,15,15,6,3.1
+47,Human,Vmware,10,0,5,1,3.1
+48,Human,Vmware,10,10,18,4.5,3.1
+49,AI,Vmware,5,10,15,4,3.3
+1,Human,BIG-IP,10,10,15,6,3.1
+2,AI,BIG-IP,0,0,5,2,3.4
+3,AI,BIG-IP,10,10,5,1,3.4
+4,AI,BIG-IP,10,10,3,1,3.4
+5,Human,BIG-IP,0,0,13,3,3
+6,Human,BIG-IP,0,0,15,4,3.7
+7,AI,BIG-IP,15,0,18,7,3.6
+8,AI,BIG-IP,10,10,0,0,3
+9,Human,BIG-IP,15,10,18,4.5,3.6
+10,Human,BIG-IP,10,0,10,4,2.9
+11,AI,BIG-IP,10,0,8,2,3.7
+12,Human,BIG-IP,10,10,18,4.5,3.7
+13,Human,BIG-IP,10,25,18,9,3.1
+14,Human,BIG-IP,10,10,15,2.5,3.4
+15,AI,BIG-IP,15,15,3,1,3.4
+16,AI,BIG-IP,10,0,3,1,3.1
+17,Human,BIG-IP,10,10,18,7,3
+18,AI,BIG-IP,10,0,3,1,3.6
+19,Human,BIG-IP,10,10,18,9,2.7
+20,Human,BIG-IP,15,15,3,1,3.1
+21,Human,BIG-IP,5,10,8,3,3.4
+22,Human,BIG-IP,0,0,3,0.5,3.1
+23,Human,BIG-IP,15,15,8,2,3.4
+24,AI,BIG-IP,5,10,18,7,3.4
+25,AI,BIG-IP,5,10,5,1,3.3
+26,AI,BIG-IP,5,10,18,7,3.7
+27,Human,BIG-IP,5,5,18,7,3.7
+28,Human,BIG-IP,5,10,18,2.5,3.3
+29,Human,BIG-IP,5,15,10,4,2.9
+30,AI,BIG-IP,10,5,18,9,3.7
+31,Human,BIG-IP,5,10,20,10,3.3
+32,AI,BIG-IP,5,10,13,2,3.6
+33,AI,BIG-IP,15,15,18,4.5,3.6
+34,Human,BIG-IP,10,10,10,4,4.1
+35,Human,BIG-IP,5,15,18,9,3.9
+36,AI,BIG-IP,5,5,10,2.5,3.4
+37,AI,BIG-IP,5,20,5,1,2.9
+38,AI,BIG-IP,10,20,15,4,3.4
+39,AI,BIG-IP,5,10,8,2,3.3
+40,AI,BIG-IP,15,15,5,2,3.3
+41,AI,BIG-IP,5,10,8,2,3.6
+42,Human,BIG-IP,15,15,8,1,3.6
+43,AI,BIG-IP,5,10,13,5,3.4
+44,Human,BIG-IP,10,10,18,9,3.6
+45,AI,BIG-IP,15,15,10,4,3.6
+46,Human,BIG-IP,15,15,18,2.5,3.3
+47,Human,BIG-IP,10,0,20,8,3.7
+48,Human,BIG-IP,10,10,5,1,3.1
+49,AI,BIG-IP,5,10,18,9,3.4
+1,AI,Zabbix,10,10,3,0,3.1
+2,AI,Zabbix,0,0,5,0,3.4
+3,AI,Zabbix,10,10,8,0.5,3.4
+4,AI,Zabbix,10,10,8,1,3.3
+5,AI,Zabbix,0,0,8,0.5,3.3
+6,Human,Zabbix,0,0,8,1,2.6
+7,Human,Zabbix,15,0,0,0,3
+8,Human,Zabbix,10,10,18,9,2.9
+9,Human,Zabbix,15,10,3,1,3.4
+10,AI,Zabbix,10,0,8,1,3.1
+11,Human,Zabbix,10,0,5,2,3.3
+12,AI,Zabbix,10,10,0,0,3.3
+13,AI,Zabbix,10,25,0,0,3
+14,Human,Zabbix,10,10,18,9,3.9
+15,Human,Zabbix,15,15,3,1,3.6
+16,Human,Zabbix,10,0,13,3,3.1
+17,AI,Zabbix,10,10,0,0,3.9
+18,Human,Zabbix,10,0,13,3,3.3
+19,Human,Zabbix,10,10,15,7.5,3.3
+20,Human,Zabbix,15,15,15,6,3.1
+21,AI,Zabbix,5,10,8,1,3.3
+22,AI,Zabbix,0,0,13,5,3.4
+23,Human,Zabbix,15,15,10,1.5,2.4
+24,Human,Zabbix,5,10,8,1,3.7
+25,Human,Zabbix,5,10,8,2,2.9
+26,Human,Zabbix,5,10,8,4,3.6
+27,AI,Zabbix,5,5,8,1,3.6
+28,AI,Zabbix,5,10,13,5,3
+29,Human,Zabbix,5,15,13,5,2.7
+30,Human,Zabbix,10,5,5,0,3.4
+31,Human,Zabbix,5,10,20,8,3.6
+32,Human,Zabbix,5,10,3,0.5,3.1
+33,AI,Zabbix,15,15,18,2.5,3.4
+34,AI,Zabbix,10,10,20,5,3.9
+35,Human,Zabbix,5,15,5,1,3.3
+36,AI,Zabbix,5,5,10,2.5,1.9
+37,Human,Zabbix,5,20,5,0,3.3
+38,AI,Zabbix,10,20,15,6,3
+39,Human,Zabbix,5,10,5,1,3.6
+40,AI,Zabbix,15,15,13,5,3.3
+41,Human,Zabbix,5,10,8,2,3
+42,Human,Zabbix,15,15,5,1,3
+43,Human,Zabbix,5,10,3,0.5,3.4
+44,AI,Zabbix,10,10,20,10,3.7
+45,Human,Zabbix,15,15,10,1.5,3.6
+46,AI,Zabbix,15,15,13,3,3.3
+47,Human,Zabbix,10,0,8,1,3.4
+48,AI,Zabbix,10,10,8,3,3
+49,Human,Zabbix,5,10,8,1,3.9
+1,AI,Barracuda,10,10,0,0,3
+2,Human,Barracuda,0,0,3,0.5,3
+3,Human,Barracuda,10,10,15,6,3
+4,Human,Barracuda,10,10,13,2,3.4
+5,AI,Barracuda,0,0,20,10,3
+6,AI,Barracuda,0,0,18,9,3.3
+7,AI,Barracuda,15,0,15,4,3.6
+8,Human,Barracuda,10,10,13,5,2.9
+9,AI,Barracuda,15,10,20,5,3.6
+10,AI,Barracuda,10,0,18,7,3.1
+11,AI,Barracuda,10,0,18,7,3.6
+12,AI,Barracuda,10,10,13,5,3
+13,Human,Barracuda,10,25,15,6,2.7
+14,Human,Barracuda,10,10,8,1,3.9
+15,Human,Barracuda,15,15,10,2.5,3.3
+16,Human,Barracuda,10,0,13,5,3.1
+17,AI,Barracuda,10,10,18,7,3.6
+18,Human,Barracuda,10,0,13,3,3.1
+19,AI,Barracuda,10,10,15,4,2.7
+20,AI,Barracuda,15,15,3,1,3
+21,AI,Barracuda,5,10,15,6,3.4
+22,AI,Barracuda,0,0,3,1,3.1
+23,AI,Barracuda,15,15,0,0,2.3
+24,Human,Barracuda,5,10,18,4.5,3.1
+25,Human,Barracuda,5,10,8,3,3.4
+26,Human,Barracuda,5,10,18,9,3.7
+27,Human,Barracuda,5,5,18,7,3.7
+28,Human,Barracuda,5,10,13,5,2.9
+29,AI,Barracuda,5,15,10,1.5,3.4
+30,Human,Barracuda,10,5,15,6,3.3
+31,AI,Barracuda,5,10,10,1.5,4
+32,AI,Barracuda,5,10,3,1,3.1
+33,Human,Barracuda,15,15,15,2.5,4
+34,AI,Barracuda,10,10,20,5,3.6
+35,AI,Barracuda,5,15,15,6,2.9
+36,Human,Barracuda,5,5,10,1.5,2.7
+37,AI,Barracuda,5,20,3,0.5,3.4
+38,Human,Barracuda,10,20,3,0.5,3.6
+39,Human,Barracuda,5,10,13,2,3.3
+40,Human,Barracuda,15,15,15,6,3.4
+41,Human,Barracuda,5,10,18,7,3.4
+42,AI,Barracuda,15,15,8,3,3.6
+43,Human,Barracuda,5,10,10,1.5,3.1
+44,AI,Barracuda,10,10,10,5,3.3
+45,Human,Barracuda,15,15,18,7,3.3
+46,AI,Barracuda,15,15,3,1,3.3
+47,AI,Barracuda,10,0,10,5,3.9
+48,AI,Barracuda,10,10,5,2,3.4
+49,Human,Barracuda,5,10,5,1,3
+1,Human,Adobe,10,10,15,6,3
+2,Human,Adobe,0,0,10,0.5,2.6
+3,Human,Adobe,10,10,15,6,3.3
+4,Human,Adobe,10,10,10,4,2.4
+5,Human,Adobe,0,0,0,0,2.3
+6,AI,Adobe,0,0,5,2,3.1
+7,Human,Adobe,15,0,13,3,3
+8,AI,Adobe,10,10,15,7.5,2.7
+9,AI,Adobe,15,10,0,0,3
+10,Human,Adobe,10,0,13,3,2.9
+11,Human,Adobe,10,0,5,2,3.4
+12,Human,Adobe,10,10,18,7,3
+13,AI,Adobe,10,25,0,0,2.3
+14,AI,Adobe,10,10,8,1,3.4
+15,AI,Adobe,15,15,13,5,3.3
+16,AI,Adobe,10,0,15,4,3.1
+17,Human,Adobe,10,10,13,3,2.9
+18,AI,Adobe,10,0,13,3,3.1
+19,AI,Adobe,10,10,5,2.5,3.1
+20,AI,Adobe,15,15,0,0,2.7
+21,Human,Adobe,5,10,5,1,3.1
+22,Human,Adobe,0,0,8,3,2.9
+23,AI,Adobe,15,15,3,0.5,2.6
+24,AI,Adobe,5,10,18,4.5,3.7
+25,AI,Adobe,5,10,3,1,2.7
+26,AI,Adobe,5,10,3,0.5,3
+27,AI,Adobe,5,5,8,0.5,3.9
+28,AI,Adobe,5,10,18,7,2.9
+29,AI,Adobe,5,15,0,0,3
+30,AI,Adobe,10,5,8,3,3.6
+31,AI,Adobe,5,10,15,4,3.6
+32,Human,Adobe,5,10,10,2.5,2.9
+33,Human,Adobe,15,15,3,1,3.1
+34,Human,Adobe,10,10,20,5,3.6
+35,AI,Adobe,5,15,18,7,3.4
+36,Human,Adobe,5,5,10,2.5,2.9
+37,Human,Adobe,5,20,10,0.5,3.9
+38,Human,Adobe,10,20,5,0,4.4
+39,AI,Adobe,5,10,5,2,3.1
+40,Human,Adobe,15,15,18,7,3.6
+41,AI,Adobe,5,10,5,1,3
+42,AI,Adobe,15,15,15,4,2.7
+43,AI,Adobe,5,10,10,4,3
+44,Human,Adobe,10,10,15,7.5,2.9
+45,AI,Adobe,15,15,13,5,2.7
+46,Human,Adobe,15,15,15,6,3
+47,AI,Adobe,10,0,0,0,2.6
+48,Human,Adobe,10,10,15,4,2.9
+49,AI,Adobe,5,10,8,2,3.3
